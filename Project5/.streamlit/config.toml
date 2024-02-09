@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = 8501
+
+[browser]
+serverAddress = "192.168.100.82"
+serverPort = 8501
