@@ -1,3 +1,3 @@
 # PortfolioPythonProjects-DA
 
-This project shows the use of Strings, loops, declaration of variables and more, in a simple and easy way, being the first steps to understand the Python programming language.
+All these projects shows the use of strings, loops, declaration of variables an other basic concepts in Python, and also the use of Pandas, Numpy, Matplotlib, Sklearn, SQL, Power-Bi and others tools  and libraries related with the Data Analysis Activity. 
